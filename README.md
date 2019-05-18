@@ -39,3 +39,5 @@ zoe.nawar@gmail.com
 https://www.zoenawar.com
 
 [LinkedIn](https://www.linkedin.com/in/zoe-nawar-a00691178/)
+
+[Twitter](https://www.twitter.com/zoenawar)
