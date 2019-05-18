@@ -32,6 +32,7 @@ In this project, I combined historical price data with natural language sentimen
 * [Bitcoin RNN LSTM](https://github.com/zoenawar/crypto_prediction_RNNmodeling/blob/master/notebooks/RNN_LSTM_on_6_years_of_Bitcoin.ipynb)
 * [Binance RNN LSTM](https://github.com/zoenawar/crypto_prediction_RNNmodeling/blob/master/notebooks/RNN_LSTM_on_2_years_of_Binance.ipynb)
 * [Visualizations](https://github.com/zoenawar/crypto_prediction_RNNmodeling/tree/master/visualizations)
+* [Non-Technical Slide Deck](https://github.com/zoenawar/crypto_prediction_RNNmodeling/blob/master/Capstone%20Presentation.pdf)
 
 
 ## Future Goals and Ideas
