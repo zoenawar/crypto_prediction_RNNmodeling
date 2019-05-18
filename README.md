@@ -18,9 +18,11 @@ The purpose of this project is modeling whether a specific crypto currency will 
 * Python
 * Keras
 * Tensorflow
+* VADER
 * Pushift API
 * Beautiful Soup
 * Pandas, Numpy, Jupyter
+* Plotly
 * etc. 
 
 ## Project Description
