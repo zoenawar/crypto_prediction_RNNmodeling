@@ -27,9 +27,7 @@ The purpose of this project is modeling whether a specific crypto currency will 
 In this project, I combined historical price data with natural language sentiment processing to create a predictive model for the cryptocurrencies Bitcoin and Binance Coin. This project came out of the commonly held but rarely achieved desire to create new, applicable indicators for investing in the volatile market of cryptocurrencies. In addition to pure market speculation, it also aims to provide a deeper insight into the way communities behave and interact with cryptocurrencies. The project was designed to be applied in many situations and will probably always be ongoing, but for now the question of focus is as follows: Can we use Neural Networks to predict whether the price of a cryptocurrency is going to go up or down based on sentiment analysis of its respective reddit community and historical price data?
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+* [notebooks/RNN_LSTM_on_2_years_of_Binance.ipynb](https://github.com/zoenawar/crypto_prediction_RNNmodeling/blob/master/notebooks/RNN_LSTM_on_2_years_of_Binance.ipynb)
 
 
 
