@@ -1,7 +1,7 @@
 # Predicting cryptocurrency markets using subreddit sentiment analysis as a feature in RNN LSTM modeling
-This ongoing project was my capstone for my General Assembly Data Science Fellowship. It's a project I'm very excited about, and have many ideas to work with it moving forward. If you have any questions, feel free to reach out to me. 
+This ongoing project was my capstone for my General Assembly Data Science Fellowship. It's a project I'm very excited about, and have many ideas to work with it moving forward. If you have any questions feel free to reach out to me. 
 
-#### -- Project Status: Active
+#### -- Project Status: Constant Work in Progress
 
 ## Objective
 The purpose of this project is modeling whether a specific crypto currency will go up, down, or stay stagnant in price on any given day (stagnant being between -1 and 1 percent change). While this model could be used in conjunction with other investing indicators and tools, it also provides a wealth of interesting analysis for how communities react to and influence crypto-currencies. 
@@ -33,6 +33,14 @@ In this project, I combined historical price data with natural language sentimen
 * [Binance RNN LSTM](https://github.com/zoenawar/crypto_prediction_RNNmodeling/blob/master/notebooks/RNN_LSTM_on_2_years_of_Binance.ipynb)
 * [Visualizations](https://github.com/zoenawar/crypto_prediction_RNNmodeling/tree/master/visualizations)
 
+
+## Future Goals and Ideas
+* Turn repeated processes into functions
+* Fix date issues
+* Work with different currencies
+* Further model tuning
+* Alternative sentiment modeling
+* Work with different subreddits
 
 
 ## Contact
